@@ -1,8 +1,12 @@
-# React + Vite
+# ConvertWish
+Application with the ability to search for products, track their cost, and convert the price into other currencies
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Building
+For correct assembly, you must add the following API keys to `.env`:
+- `VITE_CURRENCY_API_KEY=`[FreecurrencyAPI Key](https://app.freecurrencyapi.com/)
+- `VITE_PRODUCTS_API_KEY=`[Best Buy API Key](https://developer.bestbuy.com/)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Made with
+* <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="32px" />   React
+- <img align="center" src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="32px" />   TanStack Query
+* <img align="center" src="https://ww1.freelogovectors.net/svg12/mui-logo-freelogovectors.net.svg" width="32px" />   MUI
