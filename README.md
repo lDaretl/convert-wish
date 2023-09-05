@@ -6,9 +6,9 @@ Application with the ability to search for products, track their cost and conver
 # Preview
 You can see and test it [here](https://convert-wish.daret.space/)
 
-<img src="https://images.daret.space/convert-wish/wishlist.png" alt="preview-1" height="467" width="1000" /><img src="https://images.daret.space/convert-wish/search.png" alt="preview-2" height="467" width="1000" />
-<img src="https://images.daret.space/convert-wish/wishlist%202.png" alt="preview-3" height="467" width="1000" />
-<img src="https://images.daret.space/convert-wish/converter.png" alt="preview-4" height="467" width="1000" />
+<img src="https://images.daret.space/convert-wish/wishlist.png" alt="preview-1"/><img src="https://images.daret.space/convert-wish/search.png" alt="preview-2" />
+<img src="https://images.daret.space/convert-wish/wishlist%202.png" alt="preview-3"/>
+<img src="https://images.daret.space/convert-wish/converter.png" alt="preview-4"/>
 
 ## Building
 For correct assembly, you must add the following API keys to `.env`:
